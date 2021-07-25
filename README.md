@@ -31,6 +31,7 @@ For the analysis of chest x-ray images, all chest radiographs were initially scr
 
 
 Citation: http://www.cell.com/cell/fulltext/S0092-8674(18)30154-5
+
 Data: https://data.mendeley.com/datasets/rscbjbr9sj/2
 
 ## 3. Evaluation 
